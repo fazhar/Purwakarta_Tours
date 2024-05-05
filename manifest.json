@@ -1,0 +1,15 @@
+{
+  "background_color": "#fff",
+  "description": "PWKTour.",
+  "display": "fullscreen",
+  "icons": [
+	{
+	  "src": "assets/images/pwa150x150.png",
+	  "sizes": "150x150",
+	  "type": "image/png"
+	}
+  ],
+  "name": "Purwakarta Tour",
+  "short_name": "PWKTour",
+  "start_url": "index.html"
+}
